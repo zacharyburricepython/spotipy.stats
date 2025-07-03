@@ -1,4 +1,4 @@
-# Spotipy Stats Viewer
+# Spotipy.stats
 
 A Python Tkinter app that shows your Spotify top artists and tracks with selectable time ranges.  
 Uses Spotipy API, dotenv for credentials, and sv_ttk for a sleek dark theme.
