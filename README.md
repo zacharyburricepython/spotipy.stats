@@ -39,7 +39,7 @@ Uses Spotipy API, dotenv for credentials, and sv_ttk for a sleek dark theme.
 **SPOTIPY_REDIRECT_URI=http://127.0.0.1:8888/callback**
 
 
-(Visit https://developer.spotify.com/dashboard to create app to get api)
+Visit https://developer.spotify.com/dashboard to create app (use redirect url above) to get client id and client secret
 
 
 4. Run the app:
